@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+}
+#img1{
+    height: 400px ;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 6px;
+}
+.header{
+    color: rgb(185, 193, 200);
+    background-color: rgb(84, 109, 110);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+b{
+    font-size: 35px;
+}
+pre{
+    font-size: 20px;
+}
+body{
+    background-color: rgb(203, 206, 170);
+}

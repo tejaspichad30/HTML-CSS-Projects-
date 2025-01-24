@@ -1,0 +1,205 @@
+.header{
+    background-color: rgb(44, 105, 80);
+    color: rgb(242, 232, 232);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+
+}
+b{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+}
+pre{
+    font-size: 20px;
+}
+#img1{
+    width: 600px;
+    height: 300px;
+    /* to center the image */
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 4px;
+}
+.ha{
+    color: rgb(30, 151, 151);
+    font-size: 20px;
+}   
+
+/* Boxes css */
+.container1{
+    width: 80%;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+/* first box  */
+.html{
+    width: 500px;
+    height: 720px;
+    margin: 5px;
+    border: 10px rgb(144, 196, 213);
+    border-radius: 3%;
+    background-color: rgb(114, 164, 180);
+    text-align: center;
+  
+}
+#img2{
+    width: 500px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+
+    /* 2nd file box */
+}
+.CSS{
+    width: 500px;
+    height: 720px;
+    margin: 5px;
+    border: 10px rgb(144, 196, 213);
+    border-radius: 3%;
+    background-color: rgb(114, 164, 180);
+    text-align: center;
+  
+}
+#img3{
+    width: 450px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+
+    /* 3rd  box */
+}
+.bootstrap{
+    width: 500px;
+    height: 720px;
+    margin: 5px;
+    border: 10px rgb(41, 63, 35);
+    border-radius: 3%;
+    background-color: rgb(114, 164, 180);
+    text-align: center;
+}
+#img4{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+/* 2nd line of the boxes */
+.container2{
+    width: 80%;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+.javaScript{
+    width: 500px;
+    height: 700px;
+    margin: 5px;
+    border: 10px rgb(41, 63, 35);
+    border-radius: 3%;
+    background-color: rgb(114, 164, 180);
+    text-align: center;
+}
+#img5{
+    width: 350px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+.jquery{
+    width: 500px;
+    height: 700px;
+    margin: 5px;
+    border: 10px rgb(41, 63, 35);
+    border-radius: 3%;
+    background-color: rgb(114, 164, 180);
+    text-align: center;
+}
+#img6{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+.ReactJs{
+    width: 500px;
+    height: 700px;
+    margin: 5px;
+    border: 10px rgb(41, 63, 35);
+    border-radius: 3%;
+    background-color: rgb(114, 164, 180);
+    text-align: center;
+}
+#img7{
+    width: 300px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+.interviewQuestions{
+    width: 750px;
+    height: 700px;
+    margin: 5px;
+    border: 10px rgb(41, 63, 35);
+    border-radius: 3%;
+    background-color: rgb(114, 164, 180);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#img8{
+    width: 350px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+.Footer{
+    background-color: rgb(58, 63, 80);
+    color: rgb(190, 190, 190);
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+#icon{
+    margin-bottom: 20px;
+}
+.social{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.Footer-nav{
+    color: white;
+    font-size: 20px;
+    background-color: aliceblue;
+}

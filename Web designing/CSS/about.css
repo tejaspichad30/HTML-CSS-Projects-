@@ -1,0 +1,53 @@
+.header{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+b{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+body{
+    /* background-color: burlywood; */
+}
+p{
+    font-size: 20px;
+}
+.heading{
+    font-size: 40px;
+    text-decoration: none;
+}
+.Footer{
+    background-color: rgb(156, 146, 124);
+    color: rgb(190, 190, 190);
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+}
+.icon{
+    margin-bottom: 20px;
+}
+.social{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.footer-nav{
+    background-color: rgb(0, 0, 0);
+    color: rgb(199, 163, 65);
+    font-size: 20px;
+    text-align: center;
+}
+.Footer-copy{
+    color: white;
+}

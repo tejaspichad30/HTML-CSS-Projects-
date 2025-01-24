@@ -1,0 +1,25 @@
+pre{
+    font-size: 20px;
+}
+#img1{
+    height: 400px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 6px;
+}
+.header{
+    background-color: rgb(17, 60, 20);
+    color: rgb(118, 211, 84);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /* padding-left: 5px; */
+}
+b{
+    font-size: 40px;
+}
+body{
+    background-color: rgb(97, 154, 57);
+}

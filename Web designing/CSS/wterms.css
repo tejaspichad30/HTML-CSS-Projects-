@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(230, 114, 114);
+}
+.header{
+    background-color: rgb(70, 69, 78);
+    color: rgb(235, 217, 217);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+b{
+    font-size: 40px;
+}
+.ha{
+    color: brown;
+    font-size: 20px;
+}
+#web_Terminology{
+    height: 350px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.webterm{
+    font-size: 20px;
+}
+body{
+    background-color: skyblue;
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    height: auto;
+    width: auto;
+}
+.intro{
+    font-size: 20px;
+}
+#intro{
+    height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#evolution{
+    height: 400px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#networks{
+    height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+pre{
+    font-size: 20px;
+}
+#webpage{
+    height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.bla{
+    color: rgb(223, 12, 89);
+}
